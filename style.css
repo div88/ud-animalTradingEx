@@ -1,0 +1,31 @@
+/* add your CSS here */
+body {
+	max-width: 300px;
+  	font-family: Helvetica, sans-serif;
+  	padding: 20px
+}
+#container {
+	padding: 20px;
+ 	border: 3px solid #efefef; 
+}
+.animal-info{
+  	border: 1px solid #efefef; 
+  	padding: 10px;
+  	margin-top: 15px;
+}
+#interesting-fact {
+ 	font-style: italic; 
+}
+ul, li {
+  	padding: 0px;
+  	margin-left: 0px;
+  	text-align: left;
+}
+li {
+ 	list-style-type: none; 
+  	text-align: left;
+}
+#facts label {
+ 	font-weight: bold;
+}
+
